@@ -1,0 +1,55 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color:white;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: plum;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .main {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 12px;
+    background:purple;
+    border-radius: 5px;
+    box-shadow: rgb(38, 57, 77) 0 px 20px 30px -10px;
+    height: 250px;
+    width: 210px;
+    box-shadow: 3px 3px 3px black;
+  }
+  input {
+    outline: none;
+    border: none;
+    padding: 5px;
+  }
+  #btn {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    height: 40px;
+    width: 30p;
+    border: 2px solid greenyellow;
+    background: goldenrod;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+  }
+  span {
+    color: red;
+  }
+  p{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 3px black;
+  }
+  #hg,#wg{
+    text-shadow: 3px 3px 3px black;
+  }
+  label{
+    text-shadow: 4px 4px 4px black;
+  }
+  h1{
+    text-shadow: 5px 5px 5px palevioletred;
+    margin-top: 50px;
+  }
